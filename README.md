@@ -1,7 +1,7 @@
-![MasterHead](https://previews.123rf.com/images/darkovujic/darkovujic1603/darkovujic160300001/53122316-flat-style-thin-line-banner-design-of-creative-idea-colors-drawing-vision-etc-modern-concept-vector-.jpg)
+![MasterHead](https://thumbs.dreamstime.com/b/banner-software-development-programming-web-site-app-laptop-code-ui-ux-interface-concept-coding-testing-usability-design-220115862.jpg)
 
 <h1 align="center">Hi 👋, I'm Novjeet Singh</h1>
-<h3 align="center">A passionate Full Stack Web developer from India</h3>
+<h3 align="center">A passionate Full Stack Web developer from India 🇮🇳</h3>
 (img align="right" alt="Coding" width="400" src="https://standuply.com/blog/wp-content/uploads/2019/04/1.gif")
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=navi0518&label=Profile%20views&color=0e75b6&style=flat" alt="navi0518" /> </p>
